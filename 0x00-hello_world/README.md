@@ -1,1 +1,1 @@
-"i started a project on 0x00-hello_world in C programming language today"
+"My first project task in C programming language in 0x00-hello_world"
