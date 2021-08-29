@@ -1,18 +1,19 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+
 /**
- * main - Entry point
+ * main - Lanzador.
  *
- * Return: Always 0 (Success)
+ * Return: Always 0.
  */
+
 int main(void)
 {
-char low;
+int a = '0';
 
-for (low = 'z'; low >= 'a'; low--)
-putchar(low);
+for (a = '0'; a <= '9'; a++)
+{
+putchar(a);
+}
 putchar('\n');
-
 return (0);
 }
