@@ -1,17 +1,18 @@
-#include "main.h"
+#include "holberton.h"
 /**
- * main - Print holberton
- *
- * Return: Always 0 (Success)
+ * main - Entry point
+ * write a program tha prints Holberton, followed by a new line.
+ * Return: Always (Success)
  */
 int main(void)
 {
-char *c = "Holberton";
-int i;
- for(i=0; i<10; i++)
+char *ch = "_putchar";
+
+while (*ch)
 {
-_putchar(c[i]);
+_putchar(*ch);
+ch++;
 }
 _putchar('\n');
-
 return (0);
+}
