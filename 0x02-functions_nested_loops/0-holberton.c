@@ -1,17 +1,16 @@
 #include "main.h"
 /**
- * main - Print holbertont
+ * main - Print holberton
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-char *sh = "Holberton";
-
-while (*sh)
+char *c = "Holberton";
+int i;
+ for(i=0; i<10; i++)
 {
-_putchar(*sh);
-      sh++;
+_putchar(c[i]);
 }
 _putchar('\n');
 
