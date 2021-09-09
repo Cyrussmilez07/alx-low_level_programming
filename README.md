@@ -1,1 +1,1 @@
-"  This is now my time to debug"
+"More ponters, arrays and string...yippy on that coding"
