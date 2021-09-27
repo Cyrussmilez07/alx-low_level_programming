@@ -1,0 +1,1 @@
+"header that defines a macro"
