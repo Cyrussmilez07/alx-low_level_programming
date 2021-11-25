@@ -1,1 +1,0 @@
-0x17. C - Doubly linked lists, Doubly Linked List contains a link element called first and last. Each link carries a data field(s) and two link fields called next and prev. Each link is linked with its next link using its next link. Each link is linked with its 
